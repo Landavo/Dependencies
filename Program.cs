@@ -30,3 +30,5 @@ namespace dotNetDependencies
     }
     
 }
+
+//This is a comment in C#<Project Sdk="Microsoft.NET.Sdk
