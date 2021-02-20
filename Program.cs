@@ -1,5 +1,5 @@
-﻿using Humanizer;
-using System;
+﻿using System;
+using Humanizer;
 
 namespace DotNetDependencies
 {
