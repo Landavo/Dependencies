@@ -1,7 +1,7 @@
 ﻿using System;
 using Humanizer;
 
-namespace DotNetDependencies
+namespace dotNetDependencies
 {
     class Program
     {
