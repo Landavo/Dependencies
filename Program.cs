@@ -11,7 +11,7 @@ namespace dotNetDependencies
             Console.WriteLine("case".ToQuantity(1));
             Console.WriteLine("case".ToQuantity(5));
         }
-
+        
         static void HumanizeDates()
         {
             Console.WriteLine(DateTime.UtcNow.AddHours(-24).Humanize());
@@ -31,4 +31,4 @@ namespace dotNetDependencies
     
 }
 
-//This is a comment in C#<Project Sdk="Microsoft.NET.Sdk
+//This is a comment in C#<Project Sdk="Microsoft.NET.Sdkliberation
