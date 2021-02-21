@@ -8,7 +8,7 @@ namespace dotNetDependencies
         static void HumanizeQuantities()
         {
             Console.WriteLine("case".ToQuantity(0));
-            Console.WriteLine("case".ToQuantity(1));
+            Console.WriteLine("case".ToQuantity(1));git vs github
             Console.WriteLine("case".ToQuantity(5));
         }
         
