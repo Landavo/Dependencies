@@ -58,3 +58,5 @@
 /home/scooter/dotNetDependencies/bin/Debug/net5.0/zh-Hans/Humanizer.resources.dll
 /home/scooter/dotNetDependencies/bin/Debug/net5.0/zh-Hant/Humanizer.resources.dll
 /home/scooter/dotNetDependencies/obj/Debug/net5.0/dotNetDependencies.csproj.CopyComplete
+/home/scooter/dotNetDependencies/bin/Debug/net5.0/az/Humanizer.resources.dll
+/home/scooter/dotNetDependencies/bin/Debug/net5.0/hy/Humanizer.resources.dll
